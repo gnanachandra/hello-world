@@ -32,10 +32,10 @@ int main(){
     push1(2);
 
     push2(9);
-     push2(7);
-      push2(5);
-       push2(3);
-        push2(1);
+    push2(7);
+    push2(5);
+    push2(3);
+    push2(1);
         
 
     while (top1!=-1 && top2!=-1 )
