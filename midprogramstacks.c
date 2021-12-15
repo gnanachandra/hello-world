@@ -14,6 +14,8 @@ void push(int value){
     else{
         stack[++top]=value;
     }
+
+
 }
 void display(){
     int a =top;
@@ -24,13 +26,14 @@ void display(){
 }
 
 int main(){
-
+    //pushes the elements into stack1
     push1(10);
     push1(8);
     push1(6);
     push1(4);
     push1(2);
 
+    //pushes the elements into stack2
     push2(9);
     push2(7);
     push2(5);
