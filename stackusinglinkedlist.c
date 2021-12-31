@@ -4,7 +4,7 @@ struct node{
     int data;
     struct node *next;
 };
-
+//this is stack using linkedlist code
 typedef struct node node;
 node *head=NULL;
 
