@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include "stack1.h"
 #include "stack2.h"
+//this program is about stacks
 //program works
 int stack[10];
 int size=10;
